@@ -6,4 +6,4 @@ This code preprocesses medical transcriptions by cleaning text, removing stopwor
 
 
 BERTembed-
-Accuracy - 34%
+Accuracy - 60%
