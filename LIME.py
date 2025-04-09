@@ -1,3 +1,6 @@
+# Install LIME if needed
+!pip install lime
+
 from lime.lime_text import LimeTextExplainer
 import numpy as np
 
