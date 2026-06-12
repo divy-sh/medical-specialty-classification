@@ -78,6 +78,3 @@ A good reading order:
 
 **Main dependencies:** TensorFlow / tf-keras, PyTorch + Hugging Face `transformers` (for BERT notebooks), scikit-learn, NLTK, pandas, kagglehub. A GPU is recommended for the LSTM/GRU and ClinicalBERT notebooks.
 
-## License
-
-This project is licensed under the [GNU GPL v3.0](LICENSE).
